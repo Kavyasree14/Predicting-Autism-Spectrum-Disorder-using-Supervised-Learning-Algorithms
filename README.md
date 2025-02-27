@@ -1,0 +1,2 @@
+# Predicting-Autism-Spectrum-Disorder-using-Supervised-Learning-Algorithms
+ASD diagnoses are rising, assessed through behavioral traits. Using ten queries, we analyzed patterns to detect autism in 704 records, with 189 (26.85%) identified as autistic. We trained models on 20% of data, testing on the rest. Algorithms—RF, AdaBoost, and SVM—were used to evaluate dataset accuracy, aiding in early detection and diagnosis.
